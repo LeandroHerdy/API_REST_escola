@@ -1,0 +1,15 @@
+.idea
+*.sqlite3
+venv
+__pycache__/
+local_settings.py
+*.pyc
+*.log
+*.pot
+media
+static
+uwsgi.ini
+*.bak
+*.dat
+*.pid
+*.dir
